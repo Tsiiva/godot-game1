@@ -1,6 +1,6 @@
 extends Node2D
 
-const ORC_SCENE = preload("res://scenes/orq.tscn")
+const ORC_SCENE = preload("res://scenes/orc.tscn")
 const START_DELAY = 3.0     # délai entre deux orcs au début
 const MIN_DELAY = 0.8       # délai minimum : ne descend jamais en dessous
 const DELAY_STEP = 0.05     # de combien le délai raccourcit à chaque orc
