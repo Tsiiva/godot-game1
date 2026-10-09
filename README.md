@@ -14,3 +14,6 @@ Soldier is a small 2D pixel-art arcade game. Play as a soldier in a dark forest 
 ## Run the game
 
 Open this project in Godot 4.7 or later, then run the main scene (`scenes/game.tscn`) or press **F6** while it is open. The project is configured to launch the game scene with **F5**.
+
+## Link to play the web Version
+https://lamitsiiva.itch.io/soldiervsorc
